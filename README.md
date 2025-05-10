@@ -1,2 +1,1 @@
-# Soical_App
-using HTML , SASS , Tailwind And Angular 19
+Domain : https://soical-app-tau.vercel.app/
